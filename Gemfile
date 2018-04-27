@@ -22,6 +22,7 @@ gem 'kaminari'
 gem 'kaminari-mongoid'
 gem 'mongoid', '~> 5.4'
 gem 'mongoid_rails_migrations'
+gem 'kaminari-mongoid'
 gem 'rack-ssl', require: 'rack/ssl' # force SSL
 gem 'rack-ssl-enforcer', require: false
 gem 'rails_autolink'
